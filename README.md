@@ -184,15 +184,17 @@ All charts are saved in high resolution (300 DPI) in the `charts/` directory:
 - Duplicate detection and removal
 - Outlier analysis and treatment
 
-## 📝 Deliverables
+## 🎨 Interactive Dashboard
 
-- ✅ Complete Jupyter notebook with analysis
-- ✅ Clean, well-documented code
-- ✅ Professional visualizations (5 charts)
-- ✅ Detailed insights and findings
-- ✅ Actionable strategy recommendations
-- ✅ Predictive model (bonus)
-- ✅ Comprehensive README
+An interactive Streamlit dashboard is included for exploring the analysis results.
+
+### Quick Start
+```bash
+pip install streamlit plotly
+streamlit run dashboard.py
+```
+
+See [DASHBOARD_README.md](DASHBOARD_README.md) for detailed features and customization options.
 
 ## 🔧 Troubleshooting
 

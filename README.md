@@ -81,6 +81,8 @@ trader-sentiment-analysis/
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
 ├── ANALYSIS_SUMMARY.md               # Detailed findings and insights
+├── DASHBOARD_README.md
+├── dashboard.py                      # Streamlit dashboard
 │
 ├── charts/                           # Generated visualizations
 │   ├── chart1_performance_by_sentiment.png
